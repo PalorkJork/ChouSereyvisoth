@@ -47,10 +47,10 @@ Portfolio:
 [Your Portfolio URL]
 
 GitHub:
-https://github.com/privatebenly
+https://github.com/PalorkJork
 
 LinkedIn:
-[Your LinkedIn URL]
+https://www.linkedin.com/in/chou-sereyvisoth-66ba3a3b9/
 
 ---
 
